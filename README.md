@@ -12,7 +12,7 @@ Dashboards were created in Power BI, and Python/SQL were used for data cleaningÂ
 
 ## Dashboards
 ![Overview](Overview.png)
-![Sales_Analysis](Sales_Analysis.png)
+![Sales_Analysis](Sales Analysis.png)
 ![Sales by State](Sales by state.png)
 ![Customer & Regional Insights](Customer_&_Regional_Insights.png)
 ![Order and Shipping Details](Order_and_Shipping_Details.png)
