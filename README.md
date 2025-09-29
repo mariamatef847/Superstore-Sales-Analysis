@@ -13,16 +13,16 @@ Dashboards were created in Power BI, and Python/SQL were used for data cleaningÂ
 ## Dashboards
 ![Overview](Overview.png)
 ![Sales_Analysis](Sales%20Analysis.png)
-![Sales by State](Sales_by_State.png.png)
-![Customer & Regional Insights](Customer_&_Regional_Insights.png)
-![Order and Shipping Details](Order_and_Shipping_Details.png)
+![Sales by State](Sales%20by%20State.png.png)
+![Customer & Regional Insights](Customer%20&%20Regional%20Insights.png)
+![Order and Shipping Details](Order%20and%20Shipping%20Details.png)
 ![Summary](Summary.png)
 
 ## Presentaion
-[Presentaion](superstore_sales_presentation.pptx)
+[Presentaion](superstore%20sales%20presentation.pptx)
 
 ## Dataset
-[data/superstore_sales.csv](superstore_Sales_Dataset.csv)
+[data/superstore_sales.csv](superstore%20Sales%20Dataset.csv)
 
 ## Documentation
-[Documentation](Project_Documentaion.docx)
+[Documentation](Project%20Documentaion.docx)
