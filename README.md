@@ -11,6 +11,7 @@ Dashboards were created in Power BI, and Python were used for data cleaning and
 *Power Pi
 
 ## Dashboards
+[Dahboards](DEPI%20Graduation%20project.pbix")
 ![Overview](Overview.png)
 ![Sales_Analysis](Sales%20Analysis.png)
 ![Sales by State](Sales%20by%20State.png)
