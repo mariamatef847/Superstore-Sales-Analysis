@@ -2,7 +2,7 @@
 
 ## Overview
 his project analyzes the Superstore dataset to uncover insights about sales, profit, and customer behavior.
-Dashboards were created in Power BI, and Python/SQL were used for data cleaning and analysis.
+Dashboards were created in Power BI, and Python were used for data cleaning and analysis.
 
 ## Tools used
 *python(pandas,Matplotlib)
@@ -22,7 +22,7 @@ Dashboards were created in Power BI, and Python/SQL were used for data cleaning�
 [Presentaion](superstore%20sales%20presentation.pptx)
 
 ## Dataset
-[data/superstore_sales.csv](superstore%20Sales%20Dataset.csv)
+[data/superstore_sales.csv](Superstore%20Sales%20Dataset.csv")
 
 ## Documentation
 [Documentation](Project%20Documentaion.docx)
