@@ -1,7 +1,7 @@
 ## Superstore-Sales-Analysis
 
 ## Overview
-his project analyzes the Superstore dataset to uncover insights about sales, profit, and customer behavior.
+This project analyzes the Superstore dataset to uncover insights about sales, profit, and customer behavior.
 Dashboards were created in Power BI, and Python were used for data cleaning and analysis.
 
 ## Tools used
@@ -22,7 +22,7 @@ Dashboards were created in Power BI, and Python were used for data cleaning and
 [Presentaion](superstore%20sales%20presentation.pptx)
 
 ## Dataset
-[Superstore Sales Dataset](Superstore%20Sales%20Dataset.csv)
+[Superstore Sales Dataset.csv](Superstore%20Sales%20Dataset.csv)
 
 ## Documentation
 [Documentation](Project%20Documentaion.docx)
