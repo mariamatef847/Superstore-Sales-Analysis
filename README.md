@@ -13,7 +13,7 @@ Dashboards were created in Power BI, and Python were used for data cleaning and
 ## Dashboards
 ![Overview](Overview.png)
 ![Sales_Analysis](Sales%20Analysis.png)
-![Sales by State](Sales%20by%20State.png.png)
+![Sales by State](Sales%20by%20State.png)
 ![Customer & Regional Insights](Customer%20&%20Regional%20Insights.png)
 ![Order and Shipping Details](Order%20and%20Shipping%20Details.png)
 ![Summary](Summary.png)
@@ -22,7 +22,7 @@ Dashboards were created in Power BI, and Python were used for data cleaning and
 [Presentaion](superstore%20sales%20presentation.pptx)
 
 ## Dataset
-[Datasets](Superstore%20Sales%20Dataset.csv")
+[Superatore Sales DatasetDataset](Superstore%20Sales%20Dataset.csv")
 
 ## Documentation
 [Documentation](Project%20Documentaion.docx)
